@@ -13,8 +13,7 @@ Algo sobre yanzin aqui
 <!-- Badges para contato e etc! Mais aqui: https://dev.to/envoy_/150-badges-for-github-pnk -->
  <!--Pra colocar como clicavel é so seguir o padrão abaixo [![Nome do badge](Link da img)](Link externo q a pessoa será enviada qnd clicar) -->
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/yan.gabriel.98434)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-marinho-4a008b19a)
 
 ## Linguas:
 <!-- * Indica um novo elemento na lista -->
