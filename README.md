@@ -27,7 +27,7 @@ Take a look on my linkedin!!
 <!-- Você pode pegar mais coisas feitas e temas aqui: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Se for trocar o tema é so trocar a palavra final 'Dracula' para o tema que quiser. Olha no git acima os temas -->
 
-![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=yangabriel38&show_icons=true&theme=dracula)
+![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=yangabriel38&show_icons=true&count_private=true&theme=dracula)
  
 
 
@@ -43,7 +43,7 @@ Take a look on my linkedin!!
 
 <!-- tem como mudar o layout pra demo aí fica q nem ta no meu -->
 <!-- Para mostrar as linguas mais usadas q nem no meu:-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangabriel38&layout=compac&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangabriel38&layout=compac&count_private=true&theme=dracula)
  
 <!-- insira a linguagem dentro de <td> </td> para acrescentar nova linha -->
 <!-- <b> algo  </b>  é para negrito -->
